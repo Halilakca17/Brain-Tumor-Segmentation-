@@ -1,4 +1,7 @@
 🧠 Beyin Tümörü Segmentasyonu (U-Net) 
+
+Bu konu hakkındaki çalışmamı incelemek için : https://github.com/Halilakca17/CV_AI_CODE
+
 📌 Özellikler
 Veri Seti: .mat formatındaki MRI görüntüleri ve tümör maskeleri kullanılır. Verilere bu link üzerinden erişim sağlayabilirsiniz  : https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/8
 Model Mimarisi: İyileştirilmiş U-Net
